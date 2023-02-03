@@ -1,3 +1,13 @@
+/*********************************************************************************
+ *  WEB322 – Assignment 02
+ *  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part *  of this assignment has been copied manually or electronically from any other source
+ *  (including 3rd party web sites) or distributed to other students.
+ *
+ *  Name: Maham Waqar Student ID: 127044196 Date: 03/02/2023
+ *
+ *  Online (Cyclic) Link: https://powerful-scarf-hen.cyclic.app/
+ ********************************************************************************/
+
 // import the express module
 var express = require("express");
 var blogsService = require("./blog-service"); //gets imported
